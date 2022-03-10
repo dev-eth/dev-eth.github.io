@@ -348,7 +348,7 @@ a:focus {
 }
 
 .btn.btn-fill {
-  background-color: #b76015;
+  background-color: #0bceaf;
   color: #fff;
 }
 
@@ -1659,7 +1659,7 @@ li .fa {
 }
 
 .mh-about-tag ul li span {
-  border: 1px solid #b76015;
+  border: 1px solid #0bceaf;
   padding: 4px 10px;
   border-radius: 4px;
 }
